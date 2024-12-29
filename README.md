@@ -15,6 +15,7 @@ Data science and software development projects with a focus on impactful researc
 
 🤔 Seeking Help With:
 Expert advice on publishing medical AI research and securing scholarships for my MSc in AI and Data Science.
+
 💬 Ask Me About:
 Research in AI for medical diagnostics, machine learning, TensorFlow, PyTorch, and backend development.
 
