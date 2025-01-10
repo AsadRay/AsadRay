@@ -7,7 +7,7 @@ Exploring research avenues to publish my findings in reputed conferences.
 
 🌱 Currently Learning:
 Cutting-edge techniques in deep learning and AI model optimization.
-C++ programming and database management systems like MySQL/MariaDB.
+C++ programming and database management systems like MySQL
 
 👯 Looking to Collaborate On:
 AI-powered healthcare solutions.
