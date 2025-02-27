@@ -1,3 +1,8 @@
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F7A90C&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Hey%2C+I'm+Asaduzzaman+Rayhan!+%F0%9F%91%8B;Software+Engineer+%7C+AI+Researcher+%7C+Tech+Explorer)](https://github.com/AsadRay)
+
+---
+
 # Hello Everyone! 👋  
 I'm excited to connect and share my journey in technology and innovation! 🚀  
 
@@ -43,10 +48,6 @@ I'm excited to connect and share my journey in technology and innovation! 🚀
 ---
 
 🎶 **Fun Fact:** I love covering **Bangla band songs**, exploring **sports cars**, and building cool software solutions! 🚗  
-
----
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F7A90C&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Hey%2C+I'm+Asaduzzaman+Rayhan!+%F0%9F%91%8B;Software+Engineer+%7C+AI+Researcher+%7C+Tech+Explorer)](https://github.com/AsadRay)
 
 
 ---
