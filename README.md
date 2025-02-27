@@ -3,11 +3,6 @@
 
 ---
 
-# Hello Everyone! 👋  
-I'm excited to connect and share my journey in technology and innovation! 🚀  
-
----
-
 ## 🔭 Currently Working On:  
 - **Software Engineer** at **InterCloud Limited**.  
 - Developing AI models for **medical diagnostics** using **Xception** and **EfficientNet**.  
