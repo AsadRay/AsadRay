@@ -9,7 +9,7 @@
 - Publishing findings in reputed conferences.  
 
 ## 🌱 Currently Learning:  
-- **Deep learning**, AI model optimization, **C++ programming**, and **MySQL**.  
+- **Python**, **flask**, **REST API's**, and **postgreSQL**.  
 
 ## 👯 Looking to Collaborate On:  
 - **AI-powered healthcare solutions** and **data science** projects.  
