@@ -9,7 +9,7 @@
 - Publishing findings in reputed conferences.  
 
 ## 🌱 Currently Learning:  
-- **Python**, **flask**, **REST API's**, and **postgreSQL**.  
+- **Python**, **flask**, **REST API's**, **postgreSQL** and **Deployment on Linux Server**.  
 
 ## 👯 Looking to Collaborate On:  
 - **AI-powered healthcare solutions** and **data science** projects.  
